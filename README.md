@@ -6,9 +6,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dane-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dane-me" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/medane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dane-me" height="30" width="40" /></a>
 <a href="https://fb.com/hdang02.ev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hdang02.ev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@dane2120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dane2120" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dane2120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dane2120" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
